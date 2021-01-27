@@ -35,3 +35,6 @@ In a future video we will analyze the dataset in [dataset-analysis.ipynb](https:
 - If you want to jump into a specific task, feel free to utilize the [dataset checkpoints](https://github.com/KeithGalli/disney-data-science-tasks/tree/master/dataset_checkpoints). <br/>
 - To load these files you can look at the functions found in [this file](https://github.com/KeithGalli/disney-data-science-tasks/blob/master/helper/save_and_load_dataset_checkpoints.py). <br/>
 - If you want to just do analysis on the final dataset, check out [this folder](https://github.com/KeithGalli/disney-data-science-tasks/tree/master/dataset).
+
+
+Servus I bims!
